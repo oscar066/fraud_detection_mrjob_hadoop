@@ -1,1 +1,1 @@
-# fraud_detection_mrjob_hadoop
+# fraud_detection with mrjob on hadoop clusters
